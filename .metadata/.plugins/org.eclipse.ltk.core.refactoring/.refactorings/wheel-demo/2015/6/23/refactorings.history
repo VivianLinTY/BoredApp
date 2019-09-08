@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;SlotMachineActivity.java&apos; to &apos;BoredApp/src/com.wtfff.boredApp&apos;&#x0A;- Original project: &apos;wheel-demo&apos;&#x0A;- Destination element: &apos;BoredApp/src/com.wtfff.boredApp&apos;&#x0A;- Original element: &apos;kankan.wheel.demo.SlotMachineActivity.java&apos;" description="Copy compilation unit" destination="=BoredApp/src&lt;com.wtfff.boredApp" element1="/src&lt;kankan.wheel.demo{SlotMachineActivity.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1433492386791" units="1" version="1.0"/>
-</session>
