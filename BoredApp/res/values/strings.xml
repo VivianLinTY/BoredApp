@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bored</string>
+	<string name="cache_dirname">ImggeApp_Cache</string>
+	<string name="help_me">&#160;&#160;Let\'s go!&#160;&#160;</string>
+	<string name="app_title">B&#160;o&#160;r&#160;e&#160;d</string>
+	<string name="btn_change_tv">Change</string>
+	<string name="btn_like_tv">Like</string>
+	<string name="btn_share">Share</string>
+	<string name="btn_contact_us">Contact Us</string>
+	<string name="btn_replay">Play Again</string>
+	<string name="wait">Please wait...</string>
+	<string name="tip1">&#160;Tips：Please provide location info, and you will get more interests！&#160;</string>
+	<string name="tip2">&#160;Tips：We record your choice to recommend！&#160;</string>
+	<string name="weather">Weather:</string>
+	<string name="content_tip1">我們會根據您所在的地點和天氣來推薦您事情喔！</string>
+	<string name="content_tip2_normal">如果拉吧內的事情您不想做，就請按“換一個”！&#160;⇩</string>
+	<string name="content_tip2_shine">如果拉吧內的事情您不想做，就請按“換一個”！</string>
+	<string name="content_tip3_normal">確定好想做的事後，請按“這個好”&#160;⇧</string>
+	<string name="content_tip3_shine">確定好想做的事後，請按“這個好”</string>
+	<string name="loading_title">無聊ＡＰＰ\n&#160;&#160;&#160;&#160;解決您的無聊</string>
+	<string name="exit_yes">Yes</string>
+	<string name="exit_no">No</string>
+	<string name="exit_info">Do you want to exit?</string>
+	<string name="exit_title">Alarm</string>
+	<string name="resource_from">Image and link resources are reference to google.</string>
+	<string name="check_network">Please check your network status.</string>
+</resources>

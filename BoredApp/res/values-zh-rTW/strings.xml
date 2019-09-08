@@ -1,0 +1,25 @@
+<resources>
+	<string name="app_name">無聊</string>
+	<string name="cache_dirname">ImggeApp_Cache</string>
+	<string name="help_me">&#160;&#160;找點樂子吧&#160;&#160;</string>
+	<string name="app_title">無&#160;&#160;&#160;&#160;聊</string>
+	<string name="btn_change_tv">換一個</string>
+	<string name="btn_like_tv">這個好</string>
+	<string name="btn_share">分享</string>
+	<string name="btn_contact_us">聯絡我們</string>
+	<string name="btn_replay">重新拉吧</string>
+	<string name="wait">請稍後...</string>
+	<string name="tip1">&#160;&#160;提示：提供位置資訊可獲得更準確的資訊！&#160;&#160;</string>
+	<string name="tip2">&#160;&#160;提示：記錄你的喜好,讓下次的推薦更貼近需求！&#160;&#160;</string>
+	<string name="weather">天氣:</string>
+	<string name="content_tip1">我們會根據您所在的地點和天氣來推薦您事情喔！</string>
+	<string name="content_tip2_normal">如果拉吧內的事情您不想做，就請按“換一個”！&#160;⇩</string>
+	<string name="content_tip2_shine">如果拉吧內的事情您不想做，就請按“換一個”！</string>
+	<string name="loading_title">無聊ＡＰＰ\n&#160;&#160;&#160;&#160;解決您的無聊</string>
+	<string name="exit_yes">是</string>
+	<string name="exit_no">否</string>
+	<string name="exit_info">是否要離開無聊APP</string>
+	<string name="exit_title">提醒</string>
+	<string name="resource_from">圖片及網頁來源皆來自google</string>
+	<string name="check_network">請檢查您的網路狀態</string>
+</resources>
